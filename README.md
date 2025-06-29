@@ -4,7 +4,7 @@
 <h3 align="center">Email : <a href="">wsj6915@gmail.com</a></h3>
 <h3 align="center">Notion : <a href="">포트폴리오 링크</a></h3>
 
-### 🧰 Tech Stack
+### 🧰 기술 스택
 <p align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
