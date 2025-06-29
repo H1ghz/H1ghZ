@@ -3,7 +3,6 @@
 
 <h3 align="center">Email : <a href="">wsj6915@gmail.com</a></h3>
 <h3 align="center">Notion : <a href="">포트폴리오 링크</a></h3>
----
 
 ### 🧰 Tech Stack
 <p align="center">
@@ -27,8 +26,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sukjin-github&show_icons=true&theme=tokyonight" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukjin-github&layout=compact&theme=tokyonight" height="180px"/>
 </p>
-
----
 
 ### 🗂️ Projects & Interests
 - 🔭 I’m currently working on: **Virtual Farm Simulation**
