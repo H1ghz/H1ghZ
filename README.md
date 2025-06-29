@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm suk jin</h1>
 <h3 align="center">💻 변화를 추구하는 개발자 왕석진입니다.</h3>
 
-<h3 align="center">Email : wsj6915@gmail.com</h3>
+<h3 align="center">Email : <a href="">wsj6915@gmail.com</a></h3>
 <h3 align="center">Notion : <a href="">포트폴리오 링크</a></h3>
 ---
 
