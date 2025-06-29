@@ -28,7 +28,8 @@
 </p>
 
 ### 🗂️ 프로젝트
-[전자결재 웹 서비스](https://github.com/h1ghz/)
+[전자결재 웹 서비스](https://github.com/H1ghz/ERP)
+[지능형 음식 추천 웹 서비스](https://github.com/H1ghz/Where-Food)
 ---
 
 ### 📍 Let's Connect!
