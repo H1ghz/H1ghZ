@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="assets/git.gif" alt="GitHub Banner" width="600"/>
+  <img src="assets/git.gif" alt="GitHub Banner" style="width:100%; max-width:1000px;" />
 </div>
+
 
 <h1 align="center">Hi 👋, I'm suk jin</h1>
 <h3 align="center">💻 Passionate developer from Korea</h3>
