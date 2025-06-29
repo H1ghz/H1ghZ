@@ -28,8 +28,13 @@
 </p>
 
 ### 🗂️ 프로젝트
-[전자결재 웹 서비스](https://github.com/H1ghz/ERP)
-[지능형 음식 추천 웹 서비스](https://github.com/H1ghz/Where-Food)
+<a href="https://github.com/H1ghz/ERP" target="_blank">
+  <img src="https://opengraph.githubassets.com/1/H1ghz/ERP" alt="ERP Repo" width="350" />
+</a>
+
+<a href="https://github.com/H1ghz/Where-Food" target="_blank">
+  <img src="https://opengraph.githubassets.com/1/H1ghz/Where-Food" alt="Where-Food Repo" width="350" />
+</a>
 ---
 
 ### 📍 Let's Connect!
