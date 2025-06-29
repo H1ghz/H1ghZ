@@ -27,11 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukjin-github&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
-### 🗂️ Projects & Interests
-- 🔭 I’m currently working on: **Virtual Farm Simulation**
-- 🌱 I’m learning: **Big Data, Spring Framework, Cloud Services**
-- 💬 Ask me about: `Java`, `Node.js`, `React`, `MySQL`
-- 📫 Contact me: `your_email@example.com`
+### 🗂️ 프로젝트
 
 ---
 
