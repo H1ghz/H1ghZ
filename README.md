@@ -6,7 +6,7 @@
 
 
 
-<h3 align="center">🧰 기술 스택</h3>
+<h2 align="center">🧰 기술 스택</h2>
 <p align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
