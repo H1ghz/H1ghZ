@@ -31,8 +31,12 @@
 
 <h2 align="center">🗂️ 프로젝트</h2>
 
-[![ERP](https://github-readme-stats.vercel.app/api/pin/?username=H1ghz&repo=ERP&theme=tokyonight)](https://github.com/H1ghz/ERP)
-[![Where-Food](https://github-readme-stats.vercel.app/api/pin/?username=H1ghz&repo=Where-Food&theme=tokyonight)](https://github.com/H1ghz/Where-Food)
+<a href="https://github.com/H1ghz/ERP" target="_blank" rel="noopener noreferrer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=H1ghz&repo=ERP&theme=tokyonight" alt="ERP 프로젝트" />
+</a>
+<a href="https://github.com/H1ghz/Where-Food" target="_blank" rel="noopener noreferrer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=H1ghz&repo=Where-Food&theme=tokyonight" alt="Where-Food 프로젝트" />
+</a>
 
 ---
 <p align="center">
