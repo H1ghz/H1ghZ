@@ -23,13 +23,13 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </p>
 
-### 📈 GitHub Stats
+<h2 align="center">📈 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=H1ghz&show_icons=true&theme=tokyonight" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H1ghz&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
-### 🗂️ 프로젝트
+<h2 align="center"🗂️ 프로젝트></h2>
 [![ERP](https://github-readme-stats.vercel.app/api/pin/?username=H1ghz&repo=ERP&theme=tokyonight)](https://github.com/H1ghz/ERP)
 [![Where-Food](https://github-readme-stats.vercel.app/api/pin/?username=H1ghz&repo=Where-Food&theme=tokyonight)](https://github.com/H1ghz/Where-Food)
 
