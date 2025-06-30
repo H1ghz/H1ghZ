@@ -30,14 +30,14 @@
 </p>
 
 <h2 align="center">🗂️ 프로젝트</h2>
-
-<a href="https://github.com/H1ghz/ERP" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=H1ghz&repo=ERP&theme=tokyonight" alt="ERP 프로젝트" />
-</a>
-<a href="https://github.com/H1ghz/Where-Food" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=H1ghz&repo=Where-Food&theme=tokyonight" alt="Where-Food 프로젝트" />
-</a>
-
+<p align="center">
+  <a href="https://github.com/H1ghz/ERP" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=H1ghz&repo=ERP&theme=tokyonight" alt="ERP 프로젝트" />
+  </a>
+  <a href="https://github.com/H1ghz/Where-Food" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=H1ghz&repo=Where-Food&theme=tokyonight" alt="Where-Food 프로젝트" />
+  </a>
+</p>
 ---
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
