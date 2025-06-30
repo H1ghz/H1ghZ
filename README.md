@@ -38,7 +38,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=H1ghz&repo=Where-Food&theme=tokyonight" alt="Where-Food 프로젝트" />
   </a>
 </p>
----
+<br>
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white"/></a>
