@@ -1,8 +1,9 @@
 <h1 align="center">Welcome to my Github 👋</h1>
 <h3 align="center">💻 변화를 추구하는 개발자 왕석진입니다.</h3>
 
-<h3 align="center">Email : <a href="">wsj6915@gmail.com</a></h3>
-<h3 align="center">Notion : <a href="">포트폴리오 링크</a></h3>
+### Email : [wsj6915@gmail.com](mailto:wsj6915@gmail.com)
+### Notion : [포트폴리오 링크](https://www.notion.so/221cceeab4f580a7bd15f8d864c8f86d?source=copy_link)
+
 
 ### 🧰 기술 스택
 <p align="center">
