@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=speech&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 <h1 align="center">Welcome to my Github 👋</h1>
 <h3 align="center">💻 변화를 추구하는 개발자 왕석진입니다.</h3>
